@@ -74,6 +74,9 @@ The Power BI report includes 5 interactive pages:
 
 ---
 
+## Dashboard Recording:
+https://drive.google.com/file/d/1SVDBYCecycm5-IKbfdmxP4aNDrjfb3XY/view?usp=drive_link
+
 ## 🛠 Tools & Skills Used
 
 * Power BI (Power Query, DAX, Data Modeling)
